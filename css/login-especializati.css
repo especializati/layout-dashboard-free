@@ -1,0 +1,46 @@
+.bg-login{
+    background-color: #2a3f54;
+}
+.login{
+    max-width: 500px;
+    margin: 100px auto;
+    padding: 10px;
+}
+div.image-login{
+    text-align: center;
+}
+img.img-login{
+    max-width: 200px;
+}
+form.form-login{
+    margin-top: 14px;
+}
+form.form-login input{
+    width: 100%;
+    margin: 4px 0px;
+    padding: 10px;
+    font-size: .8em;
+    color: #2a3f54;
+    border-radius: 10px;
+    border: 1px solid #2a3f54;
+    height: 26px;
+    background: #445b73;
+}
+form.form-login button{
+    /* width: 100%; */
+    padding: 10px 60px;
+    font-size: .8em;
+    font-weight: bold;
+    color: #FFF;
+    background: #e69500;
+    border: none;
+    border-radius: 7px;
+    height: 45px;
+    margin: 4px 0px;
+}
+.rel-pass{
+    color: #FFF;
+    display: block;
+    text-decoration: none;
+    margin: 10px 0px;
+}

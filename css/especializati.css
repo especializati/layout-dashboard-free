@@ -1,0 +1,150 @@
+*{margin: 0px; padding: 0px; font-family: "Open Sans";}
+.menu{
+    background: #2a3f54;
+    float: left;
+    padding: 8px;
+    width: 72px;
+    text-align: center;
+    min-height: 100vh;
+    position: fixed;
+}
+.logo{}
+img.logo-painel{
+    width: 40px;
+}
+.list-menu{
+    float: left;
+    width: 100%;
+    margin-top: 26px;
+}
+ul.menu-list{
+    list-style: none;
+}
+ul.menu-list li{}
+ul.menu-list li a{
+    font-size: 1em;
+    margin: 14px 0px;
+    float: left;
+    width: 100%;
+    color: #FFF;
+}
+ul.menu-list li a i{
+    font-size: 1.6em;
+    display: block;
+}
+.content{
+    float: left;
+    background: #f7f7f7;
+    min-height: 100vh;
+    width: calc(100% - 72px);
+    margin-left: 72px;
+}
+.top-dashboard{
+    width: 100%;
+    float: left;
+    background: #ededed;
+    padding: 4px;
+}
+.user-dash{
+    float: right;
+    cursor: pointer;
+}
+img.user-dashboard{
+    width: 45px;
+    float: left;
+}
+.user-name{
+    float: left;
+    margin: 12px 10px;
+    font-weight: bold;
+}
+.dp-menu{}
+.user-dash span.caret{margin: 20px 0px;}
+.content-ds{}
+.bred{
+    padding: 6px;
+    float: left;
+    width: 100%;
+}
+a.bred{
+    float: left;
+    width: initial;
+    color: #2a3f54;
+}
+div.title-pg{}
+h1.title-pg{
+    font-size: 2em;
+    margin: 6px 10px;
+    float: left;
+}
+.content-din{
+    float: left;
+    width: 100%;
+    padding: 10px;
+}
+.rel-dash{
+    background: #FFF;
+    /* padding: 6px; */
+    float: left;
+    width: 100%;
+    margin: 10px 0px;
+    border-radius: 6px;
+    box-shadow: 1px 2px 10px #CCC;
+}
+.rel-dash i{
+    font-size: 4em;
+    float: left;
+    background: #2a3f54;
+    color: #FFF;
+    padding: 6px;
+    border-top-left-radius: 6px;
+    border-bottom-left-radius: 6px;
+}
+.text-rel{
+    float: left;
+}
+.result{
+    font-size: 1.4em;
+    margin: 12px;
+}
+.result-ds{
+    font-size: 1em;
+    margin: 0px 10px;
+}
+.bg-white{background: #FFF;}
+.form-search{
+    padding: 20px 0px;
+}
+.form-search form{}
+.form-search form input{
+    border-radius: 0px !important;
+}
+.edit{
+    background: #2a3f54;
+    padding: 6px 10px;
+    margin: 0px;
+    color: #FFF;
+    float: left;
+}
+.delete{
+    background: #c5304b;
+    padding: 6px 10px;
+    margin: 0px;
+    color: #FFF;
+    margin: 0px 4px;
+    float: left;
+}
+.btn-insert{
+    background: #2a3f54;
+    padding: 8px 20px;
+    float: left;
+    margin: 10px 0px;
+    color: #FFF;
+    font-size: 1em;
+    font-weight: bold;
+}
+.btn-insert:hover{text-decoration: none;opacity: .9;color: #FFF;}
+.form-ds{
+    background: #FFF;
+    padding: 10px;
+}
